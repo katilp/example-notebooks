@@ -1,5 +1,5 @@
 Name	Sport	Date	Start time	Duration	Total distance (km)	Average heart rate (bpm)	Average speed (km/h)	Max speed (km/h)	Average pace (min/km)	Max pace (min/km)	Calories	Fat percentage of calories(%)	Average cadence (rpm)	Average stride length (cm)	Running index	Training load	Ascent (m)	Descent (m)	Notes	Height (cm)	Weight (kg)	HR max	HR sit	VO2max
-Kati Lassila-Perini	RUNNING	22.07.2017	09:19:30	01:29:30	12.71	125	8.5	12.8	07:03	04:41	620	32	84		53	131	303	303		160	54	169	49	43
+My name	RUNNING	22.07.2017	09:19:30	01:29:30	12.71	125	8.5	12.8	07:03	04:41	620	32	84		53	131	303	303		160	54	169	49	43
 Sample rate	Time	HR (bpm)	Speed (km/h)	Pace (min/km)	Cadence	Altitude (m)	Stride length (m)	Distances (m)	Temperatures (C)	Power (W)														
 1	00:00:00	82	3.3	18:11	0	1073		0.1	29.7															
 	00:00:01	82	3.3	18:11	0	1073		0.1	29.3															
