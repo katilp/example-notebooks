@@ -1,6 +1,6 @@
 # Example notebooks using different sources of csv
 
-This repository contains examples of visualizing different open datasets in csv format with matplotlib in jupyter notebooks. It is meant to illustrate how skills learnt in the exercises with particle physics open data from the CMS experiment [github.com/cms-opendata-education] can be applied in many other domains.
+This repository contains examples of visualizing different open datasets in csv format with matplotlib in jupyter notebooks. It is meant to illustrate how skills learnt in the exercises with particle physics open data from the CMS experiment (github.com/cms-opendata-education) can be applied in many other domains.
 
 Capability of making colourful plots does not, however, make anyone an expert. These examples should not be misunderstood as a claim that anyone can become a scientist just by drawing some plots or histograms. Understanding the phenomena behind the data and and the details of data collection require years of studies in any of the domains addressed in these examples.
 
