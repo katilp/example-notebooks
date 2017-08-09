@@ -16,5 +16,5 @@ For convenience, here's a list of solutions for some issues encountered in these
 - Read csv files where the header of interest is not the 1st line (https://github.com/katilp/example-notebooks/blob/master/Meyrin%20population%20(tab%20separated%20data%2C%20horizontal%20bar%20plot).ipynb)
 - Plot histogram bins horizontally and have text as y axis titles (https://github.com/katilp/example-notebooks/blob/master/Meyrin%20population%20(tab%20separated%20data%2C%20horizontal%20bar%20plot).ipynb)
 - Use a variable in the histogram title (https://github.com/katilp/example-notebooks/blob/master/Currencies%20(select%2C%20plot).ipynb)
-- Select part of the datasetwith a condition statement (https://github.com/katilp/example-notebooks/blob/master/Population%20data%20(plot%2C%20select).ipynb)
+- Select part of the dataset with a condition statement (https://github.com/katilp/example-notebooks/blob/master/Population%20data%20(plot%2C%20select).ipynb)
 - Select part of data by selecting a range https://github.com/katilp/example-notebooks/blob/master/Temperature%20data%20(plot%20time%20series).ipynb
