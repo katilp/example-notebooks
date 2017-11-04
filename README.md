@@ -12,6 +12,7 @@ ____
 
 For convenience, here's a list of solutions for some issues encountered in these examples:
 - Convert time format hh:mm:ss in mins or secs so that it can be used as an axis value (https://github.com/katilp/example-notebooks/blob/master/Reading%20HR%20monitor%20data.ipynb)
+- Convert a full date/time format (dd.mm.year hh:mm, can be adapted to others) to a format which can be used as an exis value (https://github.com/katilp/example-notebooks/blob/master/Temperature%20as%20function%20of%20date-time.ipynb)
 - Read "csv" files which do not have comma as separator (https://github.com/katilp/example-notebooks/blob/master/Meyrin%20population%20(tab%20separated%20data%2C%20horizontal%20bar%20plot).ipynb)
 - Read csv files where the header of interest is not the 1st line (https://github.com/katilp/example-notebooks/blob/master/Meyrin%20population%20(tab%20separated%20data%2C%20horizontal%20bar%20plot).ipynb)
 - Plot histogram bins horizontally and have text as y axis titles (https://github.com/katilp/example-notebooks/blob/master/Meyrin%20population%20(tab%20separated%20data%2C%20horizontal%20bar%20plot).ipynb)
